@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
-<h3 align="center">Software Dev. Student | Info. Management & Business Analytics</h3>
+<h3 align="center">Software Dev. Student |Engineering ＆ Info. Management & Business Analytics</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
