@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
-<h3 align="center">Software Dev. Student | Info. Management & Business Analytics</h3>
+<h3 align="center">Software Dev. Student | Engineering & Info. Management & Business Analytics</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
 
