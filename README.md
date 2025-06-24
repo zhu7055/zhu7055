@@ -87,4 +87,4 @@
   </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   </a> </p>
-<p>部分學習過的程式語言專案，沒全部上傳至github，這個統計數據僅顯示已上傳的部分</p>
+<p>部分學習過的程式語言專案，沒全部上傳至github，這個統計數據僅顯示已上傳(public)的部分</p>
