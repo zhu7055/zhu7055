@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
 <h3 align="center">Software Dev.  | Engineering & Info. Management </h3>
 <p align="center"> <img src="https://profile-counter.glitch.me/zhu7055/count.svg"/> </p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhu7055" alt="zhu7055" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 📫 How to reach me **judy18258@gmail.com**
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://kaggle.com/jiayizhu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jiayizhu05" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <p align="Center"> 
   </a> <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras"width="40" height="40"/>
@@ -87,4 +87,6 @@
   </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   </a> </p>
-<p>部分學習過的程式語言專案，沒全部上傳至github，這個統計數據僅顯示已上傳(public)的部分</p>
+<h3 align="center">Languages and Tools:</h3>  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhu7055" alt="zhu7055" /></a> </p>
+<p align="center">部分學習過的程式語言專案，沒全部上傳至github，這個統計數據僅顯示已上傳(public)的部分</p>
