@@ -90,6 +90,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   </a> </p>
 <h3 align="center">Trophy Case:</h3>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhu7055" alt="zhu7055"/>
   </a> </p>
 <p align="center">Some of the programming language projects I have learned have not been uploaded to GitHub. This statistic only shows the uploaded (public) parts.</p>
