@@ -96,4 +96,6 @@
 <h3 align="center">Trophy Case:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhu7055" alt="zhu7055"/>
   </a> </p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhu7055&show_icons=true&locale=en&layout=compact" alt="zhu7055" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zhu7055&" alt="zhu7055" /></p>
 <p align="center">Some of the programming language projects I have learned have not been uploaded to GitHub. This statistic only shows the uploaded (public) parts.</p>
