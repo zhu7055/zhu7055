@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
 <h3 align="center">Software Dev.  | Engineering & Info. Management </h3>
 <p align="center"> <img src="https://profile-counter.glitch.me/zhu7055/count.svg"/> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
