@@ -119,6 +119,8 @@
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
       <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/geopandas-black?style=for-the-badge&logo=geopandas&logoSize=auto" alt="geopandas"/></a>
+      <a href="https://www.wireshark.org/download.html" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/wireshark-%230047AB?style=for-the-badge&logo=wireshark&logoSize=auto" alt="wireshark"></a>
   </td>
   </table>
       
