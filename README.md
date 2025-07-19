@@ -36,8 +36,6 @@
 <h3>Backend</h3>
 <div align="center">
 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
-
 </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -52,6 +50,7 @@
 </td><td valign="top" width="25%">
 <h3>General Tools</h3>
 <div align="center">
+    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
