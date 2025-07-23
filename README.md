@@ -3,8 +3,6 @@
 <p align="center"> <img src="https://profile-counter.glitch.me/zhu7055/count.svg"/> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 📫 How to reach me **judy18258@gmail.com**
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
@@ -15,7 +13,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<table><tr><td valign="top" width="25%">
+<table><tr><td valign="top" width="50%">
 <h3>Frontend</h3>
 <div align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
@@ -29,15 +27,19 @@
   
   </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+
 </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
     ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    </div>
-  </td><td valign="top" width="25%">
-<h3>Backend</h3>
+  </td>
+  <td valign="top" width="50%">
+<h3>Backend</h3>  
 <div align="center">
 
-</a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
     </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
@@ -48,10 +50,14 @@
     </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
 </div>
-</td><td valign="top" width="25%">
+  
+  </td></tr>
+</table>
+<table>
+  <tr>
+<td valign="top" width="50%">
 <h3>General Tools</h3>
 <div align="center">
-    <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
   </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
@@ -84,51 +90,111 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/>
   </div>
     
-</td><td valign="top" width="25%">
+</td><td valign="top" width="50%">
 <h3>Domain Specific Application</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
 </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-   </a> <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer">  
+   </a>
+   <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"  />
-    </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-      </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40" />
-  </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+    </a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
+  
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> 
+  </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras"width="40" height="40"/>
-  </a> <a href="https://developer.android.com/studio?hl=zh-tw" target="_blank" rel="noreferrer">
+  </a>
+  <a href="https://developer.android.com/studio?hl=zh-tw" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="androidstudio"width="40" height="40" />
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
     </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-      <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+    <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/geopandas-black?style=for-the-badge&logo=geopandas&logoSize=auto" alt="geopandas"/></a>
       <a href="https://www.wireshark.org/download.html" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/wireshark-%230047AB?style=for-the-badge&logo=wireshark&logoSize=auto" alt="wireshark"></a>
-  </td>
+  </td></tr>
   </table>
-      
+
 <h3 align="center">Trophy Case:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhu7055" alt="zhu7055"/>
-  </a> </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zhu7055&show_icons=true&locale=en&layout=compact" alt="zhu7055" /></p>
+  </a> </td><td valign="top" width="33%">
+<h3 align="center">Most Used Languages:</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu7055&&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu7055&layout=compact)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhu7055&&langs_count=8)
+
+<h3 align="center">Project:</h3>
+<table>
+  <tr>
+    <th>Topic</th>
+    <th>Summary</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/FHIR-EMR">FHIR EMR</a></td>
+    <td>Capstone Project(In University),convert data to json format,upload to FHIR Server.<br>Use Javascript to Download data from FHIR Server.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/kaggle_advanced_sql">Advanced_SQL</a></td>
+    <td>JOIN UNION,SQL,Efficient Query</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/pytorch-tutorial">pytortch_tutorial</a></td>
+    <td>Deep Learning Framework(深度學習框架)<br>Deep learning model training</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/kaggle_Feature_Engineering">Feature_Engineering</a></td>
+    <td>The process of converting data into meaningful features in machine learning</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/react_app">react_app</a></td>
+    <td>Basic React.js application</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/kaggle_visualization">Data visualization</a></td>
+    <td>Data Visualization examples, including various chart types and data analysis applications</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/Python_Algorithms">Python_Algorithms</a></td>
+    <td>Collection of various algorithms implemented entirely in Python.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/Leetcode_practice">Leetcode_practice</a></td>
+    <td>Leetcode_practice</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/kaggle_computer_vision">Computer Vision</a></td>
+    <td>consists of Jupyter Notebooks that explore various computer vision concepts, including convolutional neural networks, data augmentation, and other related techniques.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/javascript_project">javascript_project</a></td>
+    <td>collection of JavaScript applications like a Calculator, Clock, and ToDoList, featuring various optimizations and comments.</td>
+  </tr>
+  
+  <tr>
+    <td><a href="https://github.com/zhu7055/Personal_Project">Personal_Project</a></td>
+    <td>Some Project made in school.</td>
+  </tr>
+</table>
 
 ![snake gif](https://raw.githubusercontent.com/zhu7055/zhu7055/output/github-contribution-grid-snake.svg)
