@@ -89,7 +89,9 @@
   </a> <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/></a>
       <a href="https://eclipseide.org/" target="_blank" rel="noreferrer">
-      <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
+      <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"></a>
+    <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></a>
   </div>
     
 </td><td valign="top" width="50%">
