@@ -87,7 +87,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" width="40" alt="visualstudio logo"/>
   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
   </a> <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/></a>
+      <a href="https://eclipseide.org/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
   </div>
     
 </td><td valign="top" width="50%">
