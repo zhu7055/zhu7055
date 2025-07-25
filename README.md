@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
 <h3 align="center">Software Dev.  | Engineering & Info. Management </h3>
-<p align="center"> <img src="https://profile-counter.glitch.me/zhu7055/count.svg"/> </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
 
 - 📫 How to reach me **judy18258@gmail.com**
