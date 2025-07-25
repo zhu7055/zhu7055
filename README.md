@@ -182,6 +182,10 @@
     <td><a href="https://github.com/zhu7055/Python_Algorithms">Python_Algorithms</a></td>
     <td>Collection of various algorithms implemented entirely in Python.</td>
   </tr>
+    <tr>
+    <td><a href="https://github.com/zhu7055/JAVA_Algorithms">JAVA_Algorithms</a></td>
+    <td>Collection of various algorithms implemented entirely in Java.</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/zhu7055/Leetcode_practice">Leetcode_practice</a></td>
     <td>Leetcode_practice</td>
@@ -194,7 +198,6 @@
     <td><a href="https://github.com/zhu7055/javascript_project">javascript_project</a></td>
     <td>collection of JavaScript applications like a Calculator, Clock, and ToDoList, featuring various optimizations and comments.</td>
   </tr>
-  
   <tr>
     <td><a href="https://github.com/zhu7055/Personal_Project">Personal_Project</a></td>
     <td>Some Project made in school.</td>
