@@ -87,8 +87,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" height="40" width="40" alt="visualstudio logo"/>
   </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
   </a> <a href="https://www.spyder-ide.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" alt="spyder" width="40" height="40"/></a>
-      <a href="https://eclipseide.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-plain.svg" alt="spyder" width="40" height="40"/></a>
+    <a href="https://eclipseide.org/" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"></a>
     <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></a>
@@ -113,7 +113,7 @@
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
       <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
       <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" alt="matplotlib" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
@@ -124,10 +124,10 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a>
     <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original-wordmark.svg" alt="Keras"width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras"width="40" height="40"/>
   </a>
   <a href="https://developer.android.com/studio?hl=zh-tw" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original-wordmark.svg" alt="androidstudio"width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" alt="androidstudio"width="40" height="40" />
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
@@ -156,7 +156,8 @@
   </tr>
   <tr>
     <td><a href="https://github.com/zhu7055/FHIR-EMR">FHIR EMR</a></td>
-    <td>Capstone Project(In University),convert data to json format,upload to FHIR Server.<br>Use Javascript to Download data from FHIR Server.</td>
+    <td>Capstone Project(In University),convert data to json format,upload to FHIR Server.<br>Use Javascript to Download data from FHIR Server.<br>
+    </td>
   </tr>
   <tr>
     <td><a href="https://github.com/zhu7055/kaggle_advanced_sql">Advanced_SQL</a></td>
@@ -182,7 +183,7 @@
     <td><a href="https://github.com/zhu7055/Python_Algorithms">Python_Algorithms</a></td>
     <td>Collection of various algorithms implemented entirely in Python.</td>
   </tr>
-    <tr>
+  <tr>
     <td><a href="https://github.com/zhu7055/JAVA_Algorithms">JAVA_Algorithms</a></td>
     <td>Collection of various algorithms implemented entirely in Java.</td>
   </tr>
@@ -198,10 +199,12 @@
     <td><a href="https://github.com/zhu7055/javascript_project">javascript_project</a></td>
     <td>collection of JavaScript applications like a Calculator, Clock, and ToDoList, featuring various optimizations and comments.</td>
   </tr>
+  
   <tr>
     <td><a href="https://github.com/zhu7055/Personal_Project">Personal_Project</a></td>
     <td>Some Project made in school.</td>
   </tr>
+  
   <tr>
     <td><a href="https://github.com/zhu7055/Geospatial_Analysis">Geospatial_Analysis</a></td>
     <td>Python:numpy,pandas,Geopandas(空間資料處理),CRS(Coordinate Reference System,座標參考系統),
@@ -210,6 +213,6 @@ Interactive Map,Manipulating Geospatial Data</td>
 </table>
 
 ![snake gif](https://raw.githubusercontent.com/zhu7055/zhu7055/output/github-contribution-grid-snake.svg)
+
 <h3 align=left>Support</h3>
 <a href="https://www.buymeacoffee.com/zhuj70553" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
