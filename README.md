@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
 <h3 align="center">Software Dev.  </h3>
-
+<p>高中時期開始寫程式，當時我開始接觸 C++,Arduino,Python。我的 GitHub 作品集包含從大學起至今的一些專案，其中許多是我在大學期間完成的。有些舊專案是最近才上傳到這個平台</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
 
 - 📫 How to reach me **judy18258@gmail.com**
