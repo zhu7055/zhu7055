@@ -156,9 +156,10 @@
     <th>Topic</th>
     <th>Summary</th>
   </tr>
-  <tr>
+<tr>
     <td><a href="https://github.com/zhu7055/FHIR-EMR">FHIR EMR</a></td>
-    <td>Capstone Project(In University),convert data to json format,upload to FHIR Server.<br>Use Javascript to Download data from FHIR Server.<br>
+    <td>Capstone Project(In University),convert data to json format,upload to FHIR Server.<br>Use Javascript to Download data from FHIR Server.<br>1.開立委外檢查單            <br>C# Upload委外項目,Client 端在FHIR Server use javascript download資料
+    <br>2.檢驗委外<br>Python Upload報告結果,Client 端在FHIR Server use javascript download檢驗結果
     </td>
   </tr>
   <tr>
