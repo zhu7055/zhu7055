@@ -94,7 +94,9 @@
       <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"></a>
     <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></a>
-  </div>
+    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
+</div>
     
 </td><td valign="top" width="50%">
 <h3>Domain Specific Application</h3>
