@@ -79,8 +79,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json" width="40" height="40"/>
     </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a> <a href="https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli" target="_blank" rel="noreferrer">   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
     </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  />
   </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
