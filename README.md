@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
 - 🌱 I’m currently learning
   <img align="center" src="https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white" alt="postgresql">
-
+  <img align="center" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white" alt="spring">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/jiayizhu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jiayizhu05" height="30" width="40" /></a>
