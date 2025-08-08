@@ -8,6 +8,8 @@
 - 📫 How to reach me **judy18258@gmail.com**
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
+- 🌱 I’m currently learning
+  <img align="center" src="https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white" alt="postgresql">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
