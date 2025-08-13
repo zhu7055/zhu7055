@@ -217,6 +217,10 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td><a href="https://github.com/zhu7055/seleniumbase">seleniumbase</a></td>
     <td>Simplify web automation testing and data scraping tasks</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/psql">PSQL</a></td>
+    <td>Some PostgreSQL Command.</td>
+  </tr>
 </table>
 
 ![snake gif](https://raw.githubusercontent.com/zhu7055/zhu7055/output/github-contribution-grid-snake.svg)
