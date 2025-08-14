@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
 - 🌱 I’m currently learning
-  <img align="center" src="https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white" alt="postgresql">
+  
   <img align="center" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white" alt="spring">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -50,7 +50,9 @@
 </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
     </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+        <img align="center" src="https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white" alt="postgresql">
 </div>
   
   </td></tr>
