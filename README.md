@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
 - 🌱 I’m currently learning
-  <a href="https://angularjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://angular.tw/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://img.shields.io/badge/Angular.js-E23237.svg?logo=angularjs&logoColor=white" alt="angular"></a>
   
 <h3 align="left">Connect with me:</h3>
