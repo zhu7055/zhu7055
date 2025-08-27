@@ -11,6 +11,9 @@
 - 🌱 I’m currently learning
   <a href="https://angular.tw/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://nodejs.org/zh-tw" target="_blank" rel="noreferrer"> 
+        <img align="center" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" alt="node"/></a>
+
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
