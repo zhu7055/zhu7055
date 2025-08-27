@@ -12,7 +12,7 @@
   <a href="https://angular.tw/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://nodejs.org/zh-tw" target="_blank" rel="noreferrer"> 
-        <img align="center" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" alt="node"/></a>
+        <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/></a>
 
   
 <h3 align="left">Connect with me:</h3>
@@ -56,9 +56,9 @@
     </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
       <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
-        <img align="center" src="https://img.shields.io/badge/postgres-316192.svg?logo=postgresql&logoColor=white" alt="postgresql"></a>
+        <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"></a>
         <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-        <img align="center" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white" alt="spring"></a>
+        <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"></a>
 </div>
   
   </td></tr>
@@ -102,6 +102,10 @@
       <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></a>
     <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+<a href="https://www.microsoft.com/zh-tw/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"></a>
 </div>
     
 </td><td valign="top" width="50%">
