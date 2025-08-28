@@ -20,6 +20,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
+<!--Frontend欄位-->
 <table><tr><td valign="top" width="50%">
 <h3>Frontend</h3>
 <div align="center">
@@ -37,11 +38,13 @@
 
 </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> </a>
-    ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+    </a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/> </a>
    </div>
   </td>
   <td valign="top" width="50%">
-<h3>Backend</h3>  
+<!--Backend欄位-->
+<h3>Backend</h3>
 <div align="center">
 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50" /></a>
@@ -65,9 +68,9 @@
 </div>
   
   </td></tr>
-</table>
-<table>
+
   <tr>
+<!--General Tools 欄位-->
 <td valign="top" width="50%">
 <h3>General Tools</h3>
 <div align="center">
@@ -107,6 +110,7 @@
   </div>
     
 </td><td valign="top" width="50%">
+  <!--Domain Specific Application欄位-->
 <h3>Domain Specific Application</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
@@ -168,6 +172,7 @@
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"></a>
   </td>
   <td valign="top" width="50%">
+<!--Testing Tools欄位-->
 <h3>Testing Tools</h3>
  <a href="https://www.wireshark.org/download.html" target="_blank" rel="noreferrer">
           <img src="https://img.shields.io/badge/wireshark-%230047AB?style=for-the-badge&logo=wireshark&logoSize=auto" alt="wireshark"></a>
