@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
-<h3 align="center">Software Dev.  | Engineering & Info. Management </h3>
+<h3 align="center">Software Dev.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
 
@@ -176,7 +176,7 @@
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 
 <a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-%234000BF?style=for-the-badge&logo=insomnia&label=insomnia&labelColor=%234000BF" alt="Insomnia"></a>
+    <img src="https://img.shields.io/badge/INSOMNIA-%234000BF?style=for-the-badge&logo=insomnia&labelColor=%234000BF" alt="Insomnia"></a>
 
 
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
