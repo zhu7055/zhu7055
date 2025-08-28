@@ -175,6 +175,10 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
 
+<a href="https://insomnia.rest/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-%234000BF?style=for-the-badge&logo=insomnia&label=insomnia&labelColor=%234000BF" alt="Insomnia"></a>
+
+
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
 
