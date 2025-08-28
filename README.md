@@ -1,20 +1,19 @@
-<h1 align="center">Hi, I'm JIA-YI,ZHU</h1>
-<h3 align="center">Software Dev.  </h3>
+<h1 align="center">Hi 👋, I'm JIA-YI,ZHU</h1>
+<h3 align="center">Software Dev.  | Engineering & Info. Management </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
-
-
 
 - 📫 How to reach me **judy18258@gmail.com**
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
+
 - 🌱 I’m currently learning
   <a href="https://angular.tw/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
-  <a href="https://nodejs.org/zh-tw" target="_blank" rel="noreferrer"> 
+        <a href="https://nodejs.org/zh-tw" target="_blank" rel="noreferrer">
         <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/></a>
 
-  
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/jiayizhu05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jiayizhu05" height="30" width="40" /></a>
@@ -49,15 +48,19 @@
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
     </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
     <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
 </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/>
     </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-      <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+
+ <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"></a>
-        <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
+
+<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"></a>
 </div>
   
@@ -87,7 +90,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json" width="40" height="40"/>
     </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-    </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  </a> 
+  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" width="40" alt="jupyter logo"  />
   </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"  />
@@ -100,40 +104,22 @@
       <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"></a>
     <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></a>
-    <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
-<a href="https://www.microsoft.com/zh-tw/power-platform/products/power-bi" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"></a>
-</div>
+  </div>
     
 </td><td valign="top" width="50%">
 <h3>Domain Specific Application</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-</a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-   </a>
+</a> 
    <a href="https://www.python.org/downloads/" target="_blank" rel="noreferrer">  
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" width="40" height="40"/></a>
-  
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-      <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
-  </a>
+      
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
-  </a>
+  </a> 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
 </a>
@@ -148,11 +134,54 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
     </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-    <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/geopandas-black?style=for-the-badge&logo=geopandas&logoSize=auto" alt="geopandas"/></a>
-      <a href="https://www.wireshark.org/download.html" target="_blank" rel="noreferrer">
-          <img src="https://img.shields.io/badge/wireshark-%230047AB?style=for-the-badge&logo=wireshark&logoSize=auto" alt="wireshark"></a>
+    <a href="https://geopandas.org/en/stable/" target="_blank" rel="noreferrer"></a>
+
+
   </td></tr>
+  <tr>
+  <!--欄位Data Anaysis-->
+  <td valign="top" width="50%">
+<h3>Data Analysis</h3>
+<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+   </a>
+
+   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" width="40" alt="numpy logo"/>
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
+
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+
+
+
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
+  </a>
+
+<img src="https://img.shields.io/badge/geopandas-black?style=for-the-badge&logo=geopandas&logoSize=auto" alt="geopandas"/></a>
+
+<a href="https://www.microsoft.com/zh-tw/power-platform/products/power-bi" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"></a>
+  </td>
+  <td valign="top" width="50%">
+<h3>Testing Tools</h3>
+ <a href="https://www.wireshark.org/download.html" target="_blank" rel="noreferrer">
+          <img src="https://img.shields.io/badge/wireshark-%230047AB?style=for-the-badge&logo=wireshark&logoSize=auto" alt="wireshark"></a>
+
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"></a>
+
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"></a>
+
+  </td>
+  </tr>
+  </td>
+  
   </table>
 
 <h3 align="center">Trophy Case:</h3>
@@ -168,7 +197,12 @@
     <th>Topic</th>
     <th>Summary</th>
   </tr>
-
+  <tr>
+    <td><a href="https://github.com/zhu7055/FHIR-EMR">FHIR EMR</a></td>
+    <td>Capstone Project(In University),convert data to json format,upload to FHIR Server.<br>Use Javascript to Download data from FHIR Server.<br>1.開立委外檢查單<br>C# Upload委外項目,Client 端在FHIR Server use javascript download資料
+    <br>2.檢驗委外<br>Python Upload報告結果,Client 端在FHIR Server use javascript download檢驗結果
+    </td>
+  </tr>
   <tr>
     <td><a href="https://github.com/zhu7055/kaggle_advanced_sql">Advanced_SQL</a></td>
     <td>JOIN UNION,SQL,Efficient Query</td>
@@ -224,14 +258,15 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td><a href="https://github.com/zhu7055/seleniumbase">seleniumbase</a></td>
     <td>Simplify web automation testing and data scraping tasks</td>
   </tr>
-  <tr>
+<tr>
     <td><a href="https://github.com/zhu7055/psql">PSQL</a></td>
     <td>Some PostgreSQL Command.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/zhu7055/simple-crud-app-backend">simple-crud-app-backend</a></td>
+    <td><a href="https://github.com/zhu7055/simple-crud-app-backend">crud-app-backend</a></td>
     <td>This project is a backend development project that builds a complete RESTful CRUD API from scratch using Node.js, Express, and MongoDB.</td>
   </tr>
+
 </table>
 
 ![snake gif](https://raw.githubusercontent.com/zhu7055/zhu7055/output/github-contribution-grid-snake.svg)
