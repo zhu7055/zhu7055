@@ -162,7 +162,7 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>
 
-<img src="https://img.shields.io/badge/geopandas-black?style=for-the-badge&logo=geopandas&logoSize=auto" alt="geopandas"/></a>
+<img src="https://img.shields.io/badge/GEOPANDAS-%23139C5A?style=for-the-badge&logo=GEOPANDAS&logoColor=white" alt="geopandas"/></a>
 
 <a href="https://www.microsoft.com/zh-tw/power-platform/products/power-bi" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="PowerBI"></a>
