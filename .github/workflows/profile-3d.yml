@@ -8,11 +8,11 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate GitHub Contributions (Southern Hemisphere)
+    name: Generate GitHub Contributions (south-season-animate)
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate GitHub Profile 3D (Southern Hemisphere)
+      - name: Generate GitHub Profile 3D (south-season-animate)
         uses: yoshi389111/github-profile-3d-contrib@0.9.0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
