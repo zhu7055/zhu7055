@@ -1,0 +1,29 @@
+name: 🧊 GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: '0 18 * * *'  # 每天運行
+  workflow_dispatch:       # 允許手動執行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Contributions (Southern Hemisphere)
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Profile 3D (Southern Hemisphere)
+        uses: yoshi389111/github-profile-3d-contrib@0.9.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: zhu7055
+        with:
+          args: --theme "Southern Hemisphere"
+
+      - name: Commit and push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git commit -m "🌙 generated"
+          git push
