@@ -277,6 +277,10 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td><a href="https://github.com/zhu7055/simple-crud-app-backend">crud-app-backend</a></td>
     <td>This project is a backend development project that builds a complete RESTful CRUD API from scratch using Node.js, Express, and MongoDB.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/Customer-consumption-statistics-analysis_Power-BI">Customer-consumption-statistics-analysis_Power-BI</a></td>
+    <td>This repository contains a Power BI project for analyzing customer consumption statistics, including a PDF report and images.</td>
+  </tr>
 
 </table>
 
