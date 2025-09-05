@@ -281,7 +281,10 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td><a href="https://github.com/zhu7055/Customer-consumption-statistics-analysis_Power-BI">Customer-consumption-statistics-analysis_Power-BI</a></td>
     <td>This repository contains a Power BI project for analyzing customer consumption statistics, including a PDF report and images.</td>
   </tr>
-
+<tr>
+    <td><a href="https://github.com/zhu7055/PM2.5-in-each-city_Power-BI">PM2.5-in-each-city_Power-BI</a></td>
+    <td>This repository contains a Power BI project for visualizing PM2.5 data in various cities.</td>
+  </tr>
 </table>
 
 <!-- Contribuciones 3D GitHub -->
