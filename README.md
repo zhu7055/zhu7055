@@ -12,7 +12,9 @@
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
         <a href="https://nodejs.org/zh-tw" target="_blank" rel="noreferrer">
         <img align="center" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="node"/></a>
-
+        <a href="https://react.dev/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
