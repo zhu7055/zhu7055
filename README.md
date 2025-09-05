@@ -285,6 +285,10 @@ Interactive Map,Manipulating Geospatial Data</td>
     <td><a href="https://github.com/zhu7055/PM2.5-in-each-city_Power-BI">PM2.5-in-each-city_Power-BI</a></td>
     <td>This repository contains a Power BI project for visualizing PM2.5 data in various cities.</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/zhu7055/flask_mongodb_api_crud/tree/main">flask_mongodb_api_crud</a></td>
+    <td> The repository is a Flask-based API that uses MongoDB for database operations, demonstrating how to perform basic Create, Read, Update, and Delete (CRUD) functions.</td>
+  </tr>
 </table>
 
 <!-- Contribuciones 3D GitHub -->
