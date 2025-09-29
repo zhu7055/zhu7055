@@ -67,6 +67,9 @@
 
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring"></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
+
 </div>
   
   </td></tr>
@@ -109,6 +112,11 @@
       <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" alt="eclipse"></a>
     <a href="https://netbeans.apache.org/front/main/index.html" target="_blank" rel="noreferrer">
       <img src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans IDE"></a>
+  <a href="https://www.jetbrains.com/pycharm/download/?section=windows" target="_blank" rel="noreferrer">
+      <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="Pycharm"></a>
+
+
+
   </div>
     
 </td><td valign="top" width="50%">
