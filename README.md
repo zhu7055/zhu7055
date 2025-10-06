@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
 
-- I'm currently pursuing a second bachelor's degree in epartment of Management Information.
+- I'm currently pursuing a second bachelor's degree in Department of Management Information.
 - 🌱 I’m currently learning
   <a href="https://angular.tw/" target="_blank" rel="noreferrer"> 
         <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40"/></a>
