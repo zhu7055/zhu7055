@@ -209,6 +209,9 @@
 
 <h3 align="center">Trophy Case:</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhu7055&theme=radical" alt="zhu7055"/>
+
+![Codewars](https://github.r2v.ch/codewars?user=J0125&top_languages=true&theme=nightowlt)
+
   </a> </td><td valign="top" width="33%">
 <h3 align="center">Most Used Languages:</h3>
 
