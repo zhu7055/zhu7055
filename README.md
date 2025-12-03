@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zhu7055&label=Profile%20views&color=0e75b6&style=flat" alt="zhu7055" /> </p>
 
-- 📫 How to reach me **judy18258@gmail.com**
+- 
 
 - 📄 Know about my experiences [https://zhu7055.github.io/hello/form.html](https://zhu7055.github.io/hello/form.html)
 
